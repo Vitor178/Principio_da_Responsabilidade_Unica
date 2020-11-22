@@ -1,4 +1,5 @@
 # Princípio da Responsabilidade única
+#### Autor: Vitor Moreira Moreale
 
 Ao se iniciar os estudos em computação é bem comum que os primeiros códigos que produzimos não obedeçam muito as boas práticas de programação, visto que isso é algo que o programador adquire com o passar do tempo e com mais experiência. Muito provavelmente todas as pessoas que já se aventuraram em escrever algum código já produziram ou se depararam com aqueles arquivos “faz tudo”, em que em um único arquivo de código é feito a captação dos dados, impressão da tela, processamento de dados ou outras n coisas distintas.
 
